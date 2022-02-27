@@ -27,5 +27,5 @@ if [ ! -d /usr/bin ];then
     pkg install php5 -y
   fi
 fi
-php .ipaddress.php
+php ipaddress.php
 exit
